@@ -9,7 +9,7 @@ I'm Rodolpho Silva, I'm a developer Front-end Junior, currently I'm making proje
 ⚠️ And remember, kindness breeds kindness.
 <br>
 <br>
-📫 You can shearch me on my socials medias, link in somewere here. 
+📫 You can shearch me on my socials medias, link bellow. 
 <br>
 <br>
 <a href="https://www.instagram.com/rodolphomandetta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
