@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Rodolpho Silva, I'm a developer Front-end Junior, currently I'm making projects with HTML, CSS. But I'm learning JavaScript and React.
+I'm Rodolpho Silva, I'm a developer Front-end Junior, currently I'm making projects with <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">, <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">. But I'm learning <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> and <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">.
 <br>
 <br>
 💬 If you have any questions or want to know me better, ask me something, give me your opinion on whatever you want, maybe I can help with something. Or you can just stop by to say hi. You are always welcome here.
