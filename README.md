@@ -18,3 +18,9 @@ I'm Rodolpho Silva, I'm a developer Front-end Junior, currently I'm making proje
 <br>
 <br>
 ⚡ Fun fact: I'm homemade classical guitarist, It's more like a hobby, but I'm realy good at. If you know what I mean, Lol.
+<br>
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodolpho-Silva)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolpho-Silva)](https://github.com/anuraghazra/github-readme-stats)
